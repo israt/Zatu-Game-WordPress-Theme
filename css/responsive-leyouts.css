@@ -1,0 +1,492 @@
+/******************************************** RESPONSIVE STYLES*****************************************/
+/*------------------------------------------------------------------------------------------------------*
+/*******************************************  Author: Dynasty3 *****************************************/
+/**********************************  URL: http://www.dynasty3.co.uk ************************************/
+/*-----------------------------------------------------------------------------------------------------*/
+
+/* ---------- MAX 1500PX ---------- */
+@media only screen and (max-width:1500px) {
+	
+}
+
+/* ---------- MAX 1280PX ---------- */
+@media only screen and (max-width:1280px) {
+.wrapper{
+	width:100%;
+	}
+.container{
+	width:100%;
+	}
+.bx-wrapper .bx-pager {
+    display: none;
+}
+.bx-controls{
+    display: none;
+}
+
+
+}
+
+/* ---------- MAX 1199PX ---------- */
+@media only screen and (max-width:1199px) {
+
+
+}
+
+
+/* ---------- MAX 1112PX ---------- */
+@media screen and (max-width:1112px) {
+
+}
+	
+/* ---------- MAX 1080PX ---------- */
+@media screen and (max-width:1080px) {
+
+}
+
+
+
+/* ---------- MAX 1024PX ---------- */
+@media screen and (max-width:1024px) {
+
+
+}
+
+/* ---------- MAX 991PX ---------- */
+@media only screen and (max-width:991px) {
+
+}
+
+
+
+/* ---------- MAX 800PX ---------- */
+@media only screen and (max-width:800px) {
+	
+
+}
+
+
+
+
+/* ---------- MAX 768PX ---------- */
+@media only screen and (max-width:768px) {
+.wrapper{
+	width:100%;
+	}
+.container{
+	width:100%;
+	}
+.bx-wrapper .bx-pager {
+    display: none;
+}
+.bx-controls{
+    display: none;
+}
+
+	
+
+}
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (min-width:769px) and (max-width:1010px) {
+.phone-num ul {
+    padding-left: 8px;
+}
+.address ul {
+    padding-left:5px;
+}
+.address i {
+    font-size: 14px;
+}
+.address i {
+    margin-top: 3px;
+}
+.social-bookmarks ul li img{
+	width:50px;
+	height:auto;
+}
+.social-bookmarks p span {
+    font-size: 18px;
+    line-height: 28px;
+}
+.social-bookmarks h1 {
+    font-size: 50px;
+}
+.game-buy ul li {
+    font-size: 13px;
+}
+.banner-left h2 {
+    font-size: 45px;
+}
+.top-left ul li a {
+    padding: 10px 7px;
+    font-size: 15px;
+    margin-right: 2px;
+}
+.top-right p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+.view-btn {
+    width: 120px;
+    margin-top: 14px;
+}
+.view-btn a {
+    font-size: 14px;
+}
+.bottom-left input[type="submit"] {
+    font-size: 14px;
+}
+.follow-link {
+    width: 100%;
+}
+#scmenu ul{
+	display:block !important;
+	}
+#scmenu > ul > li > a {
+    padding: 12px 20px;
+    font-size: 14px;
+}
+
+
+
+
+
+}
+
+
+
+/* ---------- MAX 767PX ---------- */
+@media only screen and (min-width:321px) and (max-width:768px) {
+.wrapper{
+	width:100%;
+	}
+.container{
+	width:100%;
+	}
+.logo-area {
+    text-align: center;
+}
+.top-left {
+    width: 100%;
+    padding-left: 0%;
+}
+.top-right {
+    width: 100%;
+}
+.top-right p {
+    font-size: 14px;
+    margin-top: 0px;
+    text-align: left;
+}
+.bottom-left {
+    width: 100%;
+}
+.bottom-left .form-control {
+    width: 100%;
+}
+.bottom-left input[type="submit"] {
+    width: 120px;
+    margin-top: 10px;
+}
+.bottom-right {
+    width: 100%;
+}
+.view-btn {
+    float: left;
+    margin-bottom: 10px;
+}
+.banner-left h2 {
+    padding-top: 15px;
+    font-size: 30px;
+	margin-bottom:0px;
+}
+.banner-left h3 {
+    padding-top: 5px;
+    font-size: 25px;
+	margin-bottom:10px;
+}
+.banner-left p {
+    font-size: 22px;
+}
+.banner-left {
+    margin-bottom: 10px;
+}
+.banner-right h2 {
+    padding-top: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+	font-size:25px;
+}
+.banner-right i.fa-arrow-right {
+    font-size: 15px;
+    margin-top: 3px;
+    width: 30px;
+    height: 30px;
+    padding-top: 6px;
+}
+.pad-0 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.single-hotspot {
+    margin-bottom: 5px;
+}
+.social-bookmarks h1 {
+    font-size: 50px;
+	margin-bottom: 10px;
+}
+.social-bookmarks p {
+    font-size: 20px;
+}
+.social-bookmarks p span {
+    font-size: 18px;
+    line-height: 38px;
+}
+.social-bookmarks ul li a img{
+    width:50px;
+	height:auto;
+}
+.newsletter h1 {
+    text-align: center;
+    font-size: 28px;
+    line-height: 32px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.newsletter p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 0px;
+}
+.newsletter .form-group {
+    width: 100%;
+    margin-left: 0%;
+}
+.newsletter input[type="submit"] {
+    width: 120px;
+    height: 32px;
+}
+.newsletter .form-control{
+	height: 32px;
+	}
+.pay-link p {
+    text-align: left;
+}
+.follow-link {
+    width: 100%;
+    float: left;
+}
+.follow-link ul li {
+    margin-bottom: 10px;
+}
+.social-bookmarks h1 {
+    text-align: left;
+}
+.social-bookmarks p {
+    text-align: left;
+}
+.social-bookmarks ul {
+    padding-left: 0px;
+}
+.newsletter h1 {
+    text-align: left;
+}
+.newsletter p {
+    text-align: left;
+}
+
+.form_area_inner {
+    margin-top: 0px;
+    margin-bottom:10px;
+    padding-left:0%;
+}
+/*blog...*/
+.event-area-inner {
+    padding-top: 0px;
+}
+.inner-content {
+    padding-top: 0px;
+}
+.event-left {
+    padding: 0px 0px 0px 0px;
+    margin-top: 10px;
+}
+.event-link-inner {
+    margin-bottom: 0px;
+}
+.single-list {
+    margin-bottom: 15px;
+}
+
+
+
+
+}
+
+
+
+/* ---------- MAX 320PX ---------- */
+@media only screen and (max-width:320px) {
+.wrapper{
+	width:100%;
+	}
+.container{
+	width:100%;
+	}
+.logo-area {
+    text-align: center;
+}
+.top-left {
+    width: 100%;
+    padding-left: 0%;
+}
+.top-right {
+    width: 100%;
+}
+.top-right p {
+    font-size: 14px;
+    margin-top: 0px;
+    text-align: left;
+}
+.bottom-left {
+    width: 100%;
+}
+.bottom-left .form-control {
+    width: 100%;
+}
+.bottom-left input[type="submit"] {
+    width: 120px;
+    margin-top: 10px;
+}
+.bottom-right {
+    width: 100%;
+}
+.view-btn {
+    float: left;
+    margin-bottom: 10px;
+}
+.banner-left h2 {
+    padding-top: 15px;
+    font-size: 30px;
+	margin-bottom:0px;
+}
+.banner-left h3 {
+    padding-top: 5px;
+    font-size: 25px;
+	margin-bottom:10px;
+}
+.banner-left p {
+    font-size: 22px;
+}
+.banner-left {
+    margin-bottom: 10px;
+}
+.banner-right h2 {
+    padding-top: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+	font-size:25px;
+}
+.banner-right i.fa-arrow-right {
+    font-size: 15px;
+    margin-top: 3px;
+    width: 30px;
+    height: 30px;
+    padding-top: 6px;
+}
+.pad-0 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.single-hotspot {
+    margin-bottom: 5px;
+}
+.social-bookmarks h1 {
+    font-size: 50px;
+	margin-bottom: 10px;
+}
+.social-bookmarks p {
+    font-size: 20px;
+}
+.social-bookmarks p span {
+    font-size: 18px;
+    line-height: 38px;
+}
+.social-bookmarks ul li a img{
+    width:50px;
+	height:auto;
+}
+.newsletter h1 {
+    text-align: center;
+    font-size: 28px;
+    line-height: 32px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.newsletter p {
+    text-align: center;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 0px;
+}
+.newsletter .form-group {
+    width: 100%;
+    margin-left: 0%;
+}
+.newsletter input[type="submit"] {
+    width: 120px;
+    height: 32px;
+}
+.newsletter .form-control{
+	height: 32px;
+	}
+.pay-link p {
+    text-align: left;
+}
+.follow-link {
+    width: 100%;
+    float: left;
+}
+.follow-link ul li {
+    margin-bottom: 10px;
+}
+#scmenu > ul > li > a {
+    text-align: left;
+}
+
+/*form area...*/
+.form_area_inner {
+    margin-top: 0px;
+    margin-bottom:10px;
+    padding-left:0%;
+}
+.contact_map {
+    margin-bottom: 20px;
+	margin-top:0px;
+}
+/*blog...*/
+.event-area-inner {
+    padding-top: 0px;
+}
+.inner-content {
+    padding-top: 0px;
+}
+.event-left {
+    padding: 0px 0px 0px 0px;
+    margin-top: 10px;
+}
+.event-link-inner {
+    margin-bottom: 0px;
+}
+.single-list {
+    margin-bottom: 15px;
+}
+
+
+	
+
+}
